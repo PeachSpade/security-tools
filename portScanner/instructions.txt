@@ -1,0 +1,4 @@
+1) Run the file in Terminal
+
+2) Use command "python port_scanner.py <start_port> <end_port>"
+
