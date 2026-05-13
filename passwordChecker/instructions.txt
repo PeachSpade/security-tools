@@ -1,0 +1,5 @@
+1) Run the file using:
+
+python password_checker.py <password>
+
+2) Make sure common_passwords.txt is in the same folder as the Python file.
