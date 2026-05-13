@@ -1,0 +1,21 @@
+1) Ensure you have cryptography library installed
+
+- Install via "python -m pip install cryptography"
+
+2) Run file in terminal using specified commands below
+
+COMMANDS
+
+1) To generate an encrypted key 
+
+- python encryption_tool.py generate
+
+OUTPUT -> secret.key
+
+2) To encrypt a file
+
+- python encryption_tool.py encrypt <file_name>
+
+3) To decrypt a file
+
+- python encryption_tool.py decrypt <file_name>
