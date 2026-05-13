@@ -1,0 +1,20 @@
+1) Run the file using the commands below in the terminal
+
+
+COMMANDS
+
+1) Generate SHA256 hash for a file
+
+python hash_checker.py <file_name>
+
+
+2) Compare two files using SHA256 hashes
+
+python hash_checker.py <file1> <file2>
+
+
+NOTES
+
+- The tool uses SHA256 hashing
+- Matching hashes indicate identical file contents
+- Different hashes indicate modified or different files
